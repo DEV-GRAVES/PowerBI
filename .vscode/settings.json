@@ -1,0 +1,15 @@
+{
+    "powerPlatform.experimental.browserFlavor": "Default",
+    "powerPlatform.generatorInstalled": true,
+    "editor.wordWrap": "on",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "pdf.preview": true
+    },
+    "github-actions.use-enterprise": true,
+    "GithubGistExplorer.github.username": "DEV-GRAVES",
+    "GithubGistExplorer.github.token": "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",
+    "GithubGistExplorer.github.address": "https://gist.github.com/DEV-GRAVES"
+}
